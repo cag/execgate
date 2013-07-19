@@ -1,7 +1,7 @@
 execgate
 ========
 
-A safer python exec.
+A safer python 3 exec.
 
 Usage:
 
